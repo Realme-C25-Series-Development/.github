@@ -2,4 +2,4 @@
 
 ### Our Team!
 - [eun0115](https://github.com/eun0115) - Lead Developer
-- [Fire7ly](https://github.com/fire7ly) - Assistant/Manager
+- [Fire7ly](https://github.com/fire7ly) - Recovery Developer
